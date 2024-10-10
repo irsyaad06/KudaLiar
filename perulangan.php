@@ -1,7 +1,14 @@
+
+//buat perulangan
+
 <?php
-$i = 1;
-while ($i <= 10) {
-    echo $i . "<br>";
-    $i++;
-}
+
+  echo "<br> Perulangan FOR 1-10 <br>";
+echo "<br>";
+
+  for ($i=1; $i <=10 ; $i++) {
+
+    echo $i."<br>";
+
+  }
 ?>
