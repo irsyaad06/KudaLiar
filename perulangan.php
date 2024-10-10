@@ -1,3 +1,4 @@
+
 //buat perulangan
 
 <?php
@@ -10,5 +11,4 @@ echo "<br>";
     echo $i."<br>";
 
   }
-
 ?>
