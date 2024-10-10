@@ -1,4 +1,6 @@
-Halo gais jadi hari ini temen temen hosatan mau pergi ke pangandaran melewati apa aja
+# Halo gais jadi hari ini temen temen hosatan mau pergi ke pangandaran 
+
+### perlu melewati apa saja sih?
 
 Kendaraan yang di gunakan Motor, dengan jarak tempuh kurang lebih 2 KM. Rute yang di lewati :
   Berangkat dari UNIKOM > jalan ke arah garut sekitar kurang lebih 1 setengah jam > melanjutkan perjalanan
