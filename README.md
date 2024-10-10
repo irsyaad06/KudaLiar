@@ -6,3 +6,4 @@ Kendaraan yang di gunakan Motor, dengan jarak tempuh kurang lebih 2 KM. Rute yan
   Berangkat dari UNIKOM > jalan ke arah garut sekitar kurang lebih 1 setengah jam > melanjutkan perjalanan
   dari garut sekitar 1 jam hingga sampai titik tujuan
   
+
